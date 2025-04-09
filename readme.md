@@ -1,5 +1,7 @@
 # Currency Converter
 
+![Currency Converter Screenshot](./currencyConvertor/src/assets/ss.png)
+
 This project is a simple currency converter application built using React and Tailwind CSS. It allows users to convert amounts between different currencies using real-time exchange rates.
 
 ## Features
